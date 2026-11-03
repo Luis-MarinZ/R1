@@ -1,0 +1,441 @@
+{
+  "frescolita-hero": {
+    "type": "image",
+    "width": 1080,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/frescolita-hero-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/frescolita-hero-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "frescolita-variant": {
+    "type": "image",
+    "width": 1080,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/frescolita-variant-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/frescolita-variant-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "frescolita-clay": {
+    "type": "image",
+    "width": 1072,
+    "height": 1916,
+    "sources": [
+      {
+        "src": "assets/img/frescolita-clay-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/frescolita-clay-1072.webp",
+        "width": 1072
+      }
+    ]
+  },
+  "frescolita-wireframe": {
+    "type": "image",
+    "width": 1080,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/frescolita-wireframe-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/frescolita-wireframe-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "frescolita-lighting": {
+    "type": "image",
+    "width": 1600,
+    "height": 1200,
+    "sources": [
+      {
+        "src": "assets/img/frescolita-lighting-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/frescolita-lighting-1600.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "sun-cola": {
+    "type": "image",
+    "width": 1920,
+    "height": 1080,
+    "sources": [
+      {
+        "src": "assets/img/sun-cola-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/sun-cola-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "assets/img/sun-cola-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "tsunami": {
+    "type": "image",
+    "width": 1600,
+    "height": 900,
+    "sources": [
+      {
+        "src": "assets/img/tsunami-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/tsunami-1600.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "blue-bell": {
+    "type": "image",
+    "width": 1080,
+    "height": 1080,
+    "sources": [
+      {
+        "src": "assets/img/blue-bell-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/blue-bell-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "blue-bell-clay": {
+    "type": "image",
+    "width": 1080,
+    "height": 1080,
+    "sources": [
+      {
+        "src": "assets/img/blue-bell-clay-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/blue-bell-clay-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "blue-bell-wireframe": {
+    "type": "image",
+    "width": 1080,
+    "height": 1080,
+    "sources": [
+      {
+        "src": "assets/img/blue-bell-wireframe-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/blue-bell-wireframe-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "blue-bell-lighting": {
+    "type": "image",
+    "width": 1600,
+    "height": 1200,
+    "sources": [
+      {
+        "src": "assets/img/blue-bell-lighting-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/blue-bell-lighting-1600.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "laptop": {
+    "type": "image",
+    "width": 1920,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/laptop-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/laptop-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "assets/img/laptop-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "otisense": {
+    "type": "image",
+    "width": 1080,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/otisense-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/otisense-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "border": {
+    "type": "image",
+    "width": 1500,
+    "height": 1500,
+    "sources": [
+      {
+        "src": "assets/img/border-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/border-1500.webp",
+        "width": 1500
+      }
+    ]
+  },
+  "border-clay": {
+    "type": "image",
+    "width": 1500,
+    "height": 1500,
+    "sources": [
+      {
+        "src": "assets/img/border-clay-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/border-clay-1500.webp",
+        "width": 1500
+      }
+    ]
+  },
+  "border-wireframe": {
+    "type": "image",
+    "width": 1500,
+    "height": 1500,
+    "sources": [
+      {
+        "src": "assets/img/border-wireframe-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/border-wireframe-1500.webp",
+        "width": 1500
+      }
+    ]
+  },
+  "border-lighting-top": {
+    "type": "image",
+    "width": 1600,
+    "height": 1200,
+    "sources": [
+      {
+        "src": "assets/img/border-lighting-top-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/border-lighting-top-1600.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "border-lighting": {
+    "type": "image",
+    "width": 1600,
+    "height": 1200,
+    "sources": [
+      {
+        "src": "assets/img/border-lighting-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/border-lighting-1600.webp",
+        "width": 1600
+      }
+    ]
+  },
+  "rayquaza": {
+    "type": "image",
+    "width": 1920,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/rayquaza-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/rayquaza-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "assets/img/rayquaza-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "rayquaza-clay": {
+    "type": "image",
+    "width": 1920,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/rayquaza-clay-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/rayquaza-clay-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "assets/img/rayquaza-clay-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "rayquaza-wireframe": {
+    "type": "image",
+    "width": 1920,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/rayquaza-wireframe-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/rayquaza-wireframe-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "assets/img/rayquaza-wireframe-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "greenpath": {
+    "type": "image",
+    "width": 1920,
+    "height": 1080,
+    "sources": [
+      {
+        "src": "assets/img/greenpath-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/greenpath-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "assets/img/greenpath-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "warden": {
+    "type": "image",
+    "width": 1920,
+    "height": 2362,
+    "sources": [
+      {
+        "src": "assets/img/warden-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/warden-1600.webp",
+        "width": 1600
+      },
+      {
+        "src": "assets/img/warden-1920.webp",
+        "width": 1920
+      }
+    ]
+  },
+  "frescolita-video-poster": {
+    "type": "image",
+    "width": 1080,
+    "height": 1920,
+    "sources": [
+      {
+        "src": "assets/img/frescolita-video-poster-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/frescolita-video-poster-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "frescolita-video": {
+    "type": "video",
+    "src": "assets/video/frescolita-video.mp4",
+    "width": 1080,
+    "height": 1920,
+    "poster": "frescolita-video-poster"
+  },
+  "border-video-poster": {
+    "type": "image",
+    "width": 1080,
+    "height": 1080,
+    "sources": [
+      {
+        "src": "assets/img/border-video-poster-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/border-video-poster-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "border-video": {
+    "type": "video",
+    "src": "assets/video/border-video.mp4",
+    "width": 1080,
+    "height": 1080,
+    "poster": "border-video-poster"
+  },
+  "rayquaza-video-poster": {
+    "type": "image",
+    "width": 1080,
+    "height": 1080,
+    "sources": [
+      {
+        "src": "assets/img/rayquaza-video-poster-800.webp",
+        "width": 800
+      },
+      {
+        "src": "assets/img/rayquaza-video-poster-1080.webp",
+        "width": 1080
+      }
+    ]
+  },
+  "rayquaza-video": {
+    "type": "video",
+    "src": "assets/video/rayquaza-video.mp4",
+    "width": 1080,
+    "height": 1080,
+    "poster": "rayquaza-video-poster"
+  }
+}

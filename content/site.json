@@ -1,0 +1,194 @@
+{
+  "site": {
+    "name": "Luis Marín",
+    "role": "3D Product Visualization Artist",
+    "url": "",
+    "description": "3D artist specializing in product and packaging visualization. Modeling, materials, lighting and rendering in Blender.",
+    "tagline": "I don't just render a product, I art-direct it: composition, color and brand storytelling come first.",
+    "about": [
+      "3D artist specializing in product and packaging visualization, with a Graphic Design background. I turn products and brands into photoreal and stylized renders — beverages, cosmetics, apparel and consumer goods — owning the full pipeline in Blender: modeling, materials, lighting, rendering and compositing.",
+      "My design foundation means I don't just render a product, I art-direct it: composition, color and brand storytelling come first.",
+      "Based in Oklahoma, USA (CST). Authorized to work in the U.S. Open to remote, hybrid and on-site roles, plus freelance projects."
+    ],
+    "email": "luismarinzabala1@gmail.com",
+    "links": [
+      { "label": "ArtStation", "url": "https://www.artstation.com/luismarinz" },
+      { "label": "Behance", "url": "https://www.behance.net/luismarinzabala1" },
+      { "label": "Instagram", "url": "https://www.instagram.com/Luismarinzabala1" },
+      { "label": "YouTube", "url": "https://www.youtube.com/@SubdivisionCero" }
+    ],
+    "skills": [
+      "3D Modeling",
+      "Product Visualization",
+      "Lighting",
+      "Shading",
+      "Rendering",
+      "Look Development",
+      "Hard Surface Modeling",
+      "Texturing",
+      "Compositing",
+      "Graphic Design"
+    ],
+    "software": ["Blender", "Photoshop", "Illustrator", "After Effects", "InDesign"],
+    "og_image": "assets/og.jpg"
+  },
+  "groups": [
+    { "id": "product", "label": "Product visualization" },
+    { "id": "stylized", "label": "Stylized and fan art" }
+  ],
+  "projects": [
+    {
+      "slug": "frescolita-cherry-cream",
+      "title": "Frescolita — Cherry & Cream",
+      "group": "product",
+      "cover": "frescolita-hero",
+      "description": [
+        "Beverage CGI concept for Frescolita, a Venezuelan soda brand — a \"Cherry & Cream\" flavor extension that doesn't exist in the real lineup.",
+        "Full pipeline in Blender: can modeling, condensation setup, label artwork, lighting and rendering in Cycles. Label design and color direction done by me in Illustrator, then carried into the render so the packaging and the shot were art-directed as one piece.",
+        "Includes a 15-second product animation, plus process shots: clay pass, wireframe and the key light setup. (Two additional fill panels sit outside the frame of the lighting diagram.)"
+      ],
+      "media": [
+        { "asset": "frescolita-hero", "alt": "Two Frescolita Cherry and Cream cans floating with cherries and leaves on a pink background." },
+        { "asset": "frescolita-video", "alt": "Product animation of a Frescolita can, 15 seconds, no sound.", "label": "Animation" },
+        { "asset": "frescolita-variant", "alt": "Three Frescolita cans on a dark red background, lit from below with a red glow.", "label": "Variant" },
+        { "asset": "frescolita-clay", "alt": "Gray clay render of the can next to a coil of cream topped with cherries.", "label": "Clay", "process": true, "note": "From the standing-can shot in the same series: same can model and cherries." },
+        { "asset": "frescolita-wireframe", "alt": "Wireframe view of the can and the coil of cream with cherries.", "label": "Wireframe", "process": true, "note": "From the standing-can shot in the same series: same can model and cherries." },
+        { "asset": "frescolita-lighting", "alt": "Blender viewport showing the can on a block with the key light outlined above it.", "label": "Lighting", "process": true, "note": "From the standing-can shot in the same series: same can model and cherries." }
+      ]
+    },
+    {
+      "slug": "sun-cola",
+      "title": "The Sun Cola — PET Bottle",
+      "group": "product",
+      "cover": "sun-cola",
+      "description": [
+        "Beverage product visualization for a cola brand concept. The hard part here isn't the bottle — it's stacking transparent PET over a dark liquid, with condensation on top, and still keeping the label readable and the brand colors clean.",
+        "Modeled, shaded, lit and rendered in Blender. Label design and brand mark by me."
+      ],
+      "media": [
+        { "asset": "sun-cola", "alt": "PET bottle of The Sun Cola covered in condensation on an orange background." }
+      ]
+    },
+    {
+      "slug": "tsunami-hot-sauce",
+      "title": "Tsunami Hot Sauce",
+      "group": "product",
+      "cover": "tsunami",
+      "description": [
+        "Product render for a hot sauce brand concept. Single-hue lighting study — everything is driven by one warm key and a controlled falloff, so the glass, the sauce and the peppers read as separate materials without breaking the monochrome mood.",
+        "Blender — modeling, shading, lighting, rendering. Label design by me."
+      ],
+      "media": [
+        { "asset": "tsunami", "alt": "Tsunami hot sauce bottle with red chili peppers at its base, lit by a warm orange glow on a dark red background." }
+      ]
+    },
+    {
+      "slug": "blue-bell",
+      "title": "Blue Bell — Eau de Parfum",
+      "group": "product",
+      "cover": "blue-bell",
+      "description": [
+        "Studio product visualization for a perfume concept. The brief I set myself: sell a fully transparent object with no color to rely on — so the whole shot rests on the blind-shadow pattern, the glass thickness and the contact shadow.",
+        "Blender (Cycles), modeled, lit and rendered. Packaging design by me.",
+        "Process shots included: clay pass, wireframe and lighting setup. The wireframe is the one I'd point at — clean subdivision topology, loops only where the bevels need them."
+      ],
+      "media": [
+        { "asset": "blue-bell", "alt": "Clear glass Blue Bell perfume bottle on a white pedestal, with diagonal blind shadows across the wall behind it." },
+        { "asset": "blue-bell-clay", "alt": "Gray clay render of the perfume bottle on its pedestal.", "label": "Clay", "process": true },
+        { "asset": "blue-bell-wireframe", "alt": "Wireframe view of the perfume bottle showing its subdivision topology.", "label": "Wireframe", "process": true },
+        { "asset": "blue-bell-lighting", "alt": "Blender viewport showing the bottle and pedestal surrounded by outlined area lights.", "label": "Lighting", "process": true }
+      ]
+    },
+    {
+      "slug": "concept-laptop",
+      "title": "Concept Laptop",
+      "group": "product",
+      "cover": "laptop",
+      "description": [
+        "Tech product visualization. Moody, low-key lighting with colored rim light and a reflective floor — the kind of hero shot used for launch banners and landing pages.",
+        "Hard-surface modeling, shading, lighting and rendering in Blender."
+      ],
+      "media": [
+        { "asset": "laptop", "alt": "Open laptop in a dark studio with blue and purple light mirrored on a glossy floor." }
+      ]
+    },
+    {
+      "slug": "otisense-serum",
+      "title": "The Otisense — Serum Packaging",
+      "group": "product",
+      "cover": "otisense",
+      "description": [
+        "Packaging and campaign concept for a skincare/pharma serum. Dropper bottle modeled from scratch, amber glass shading, and a floating particle system standing in for the active formula.",
+        "Brand name, label copy and layout designed by me — this one started as a branding exercise and ended as a render, which is how I like to work.",
+        "Blender + Illustrator."
+      ],
+      "media": [
+        { "asset": "otisense", "alt": "Amber dropper bottle of The Otisense serum surrounded by floating orange spheres on a gray background." }
+      ]
+    },
+    {
+      "slug": "border-headphones",
+      "title": "Border — Headphones",
+      "group": "product",
+      "cover": "border",
+      "description": [
+        "Consumer product visualization. Focus on soft-goods shading — the fabric ear cushions and matte plastic had to read as clearly different materials on a neutral background, with no scene to hide behind.",
+        "Modeled, shaded, lit and rendered in Blender.",
+        "Includes a 10-second turntable animation and a full breakdown: clay, wireframe and the four-light setup from two angles. The model is ~7k base polygons driven by bevel + subdivision + mirror — light mesh, controlled by modifiers rather than brute force."
+      ],
+      "media": [
+        { "asset": "border", "alt": "Green and cream Border headphones floating on a warm gray background." },
+        { "asset": "border-video", "alt": "Turntable animation of the Border headphones, 10 seconds, no sound.", "label": "Turntable" },
+        { "asset": "border-clay", "alt": "Gray clay render of the headphones on white.", "label": "Clay", "process": true },
+        { "asset": "border-wireframe", "alt": "Wireframe view of the headphones on white.", "label": "Wireframe", "process": true },
+        { "asset": "border-lighting-top", "alt": "Top view in the Blender viewport of the headphones with the four area lights outlined.", "label": "Lighting, top view", "process": true },
+        { "asset": "border-lighting", "alt": "Three-quarter view in the Blender viewport of the headphones with the area lights outlined.", "label": "Lighting, three-quarter view", "process": true }
+      ]
+    },
+    {
+      "slug": "shiny-rayquaza",
+      "title": "Shiny Rayquaza",
+      "group": "stylized",
+      "cover": "rayquaza",
+      "credit": "Fan art. Pokémon © Nintendo / Game Freak.",
+      "description": [
+        "Stylized character piece — Shiny Rayquaza fan art. Sculpted and modeled in Blender with a hand-painted, toon-leaning material setup and rim lighting to keep the silhouette readable.",
+        "Includes a 12-second animation. 47 objects, ~1.8k base polygons, all driven by mirror + subdivision. Clay and wireframe included — the sparkles are modeled geometry, not a post effect."
+      ],
+      "media": [
+        { "asset": "rayquaza", "alt": "Teal Shiny Rayquaza coiled in the air with yellow sparkles on a deep blue background." },
+        { "asset": "rayquaza-video", "alt": "Animation of Shiny Rayquaza, 12 seconds, no sound.", "label": "Animation" },
+        { "asset": "rayquaza-clay", "alt": "Gray clay render of Rayquaza on white.", "label": "Clay", "process": true },
+        { "asset": "rayquaza-wireframe", "alt": "Wireframe view of Rayquaza on white.", "label": "Wireframe", "process": true }
+      ]
+    },
+    {
+      "slug": "greenpath",
+      "title": "Greenpath — Hollow Knight",
+      "group": "stylized",
+      "cover": "greenpath",
+      "credit": "Fan art. Hollow Knight © Team Cherry.",
+      "description": [
+        "Stylized environment from an in-progress animated short based on Hollow Knight. Modular rock and foliage kit, atmospheric depth built with volumetrics, and a restricted green palette so the characters stay readable against a busy background.",
+        "Everything modeled, shaded, lit and rendered by me in Blender."
+      ],
+      "media": [
+        { "asset": "greenpath", "alt": "Green moss-covered cavern with hanging rock spikes and a small character in the distance." }
+      ]
+    },
+    {
+      "slug": "warden",
+      "title": "The Warden — Minecraft",
+      "group": "stylized",
+      "cover": "warden",
+      "credit": "Fan art. Minecraft © Mojang.",
+      "description": [
+        "Minecraft fan art — the Warden in the Deep Dark. Voxel-style modeling with emissive sculk detailing and a cold, low-key lighting setup built to make the glowing elements carry the whole read of the image.",
+        "Blender."
+      ],
+      "media": [
+        { "asset": "warden", "alt": "Voxel Warden standing in a dark blue temple, with two glowing orange lanterns beside its head." }
+      ]
+    }
+  ]
+}
